@@ -1,0 +1,220 @@
+C:\FileLicence\bin\Debug\FileLicence.exe.config
+C:\FileLicence\bin\Debug\FileLicence.exe
+C:\FileLicence\bin\Debug\FileLicence.pdb
+C:\FileLicence\obj\Debug\FileLicence.csproj.AssemblyReference.cache
+C:\FileLicence\obj\Debug\FileLicence.Properties.Resources.resources
+C:\FileLicence\obj\Debug\FileLicence.csproj.GenerateResource.cache
+C:\FileLicence\obj\Debug\FileLicence.csproj.CoreCompileInputs.cache
+C:\FileLicence\obj\Debug\FileLicence.exe
+C:\FileLicence\obj\Debug\FileLicence.pdb
+C:\FileLicence\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.Data.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\FileLicence\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraScheduler.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\FileLicence\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\FileLicence\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\FileLicence\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\FileLicence\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.Images.v22.1.dll
+C:\FileLicence\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\FileLicence\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.Data.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\FileLicence\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraScheduler.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+C:\FileLicence\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\FileLicence\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\FileLicence\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\FileLicence\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\FileLicence\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\FileLicence\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\FileLicence\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\FileLicence\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\FileLicence\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\FileLicence\obj\Debug\FileLicence.exe.licenses
+C:\FileLicence\obj\Debug\FileLicence.csproj.CopyComplete
+C:\FileLicence\obj\Debug\FileLicence.frm_main.resources
+C:\FileLicence\bin\Debug\System.Diagnostics.EventLog.dll
+C:\FileLicence\bin\Debug\System.Security.Principal.Windows.dll
+C:\FileLicence\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\FileLicence\bin\Debug\System.Diagnostics.EventLog.xml
+C:\FileLicence\bin\Debug\System.Security.Principal.Windows.xml
+C:\FileLicence\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\tes\Licence File\bin\Debug\FileLicence.exe.config
+C:\tes\Licence File\bin\Debug\FileLicence.exe
+C:\tes\Licence File\bin\Debug\FileLicence.pdb
+C:\tes\Licence File\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Data.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraScheduler.v22.1.dll
+C:\tes\Licence File\bin\Debug\System.Diagnostics.EventLog.dll
+C:\tes\Licence File\bin\Debug\System.Security.Principal.Windows.dll
+C:\tes\Licence File\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\tes\Licence File\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\tes\Licence File\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Images.v22.1.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\tes\Licence File\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.Data.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\tes\Licence File\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraScheduler.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+C:\tes\Licence File\bin\Debug\System.Diagnostics.EventLog.xml
+C:\tes\Licence File\bin\Debug\System.Security.Principal.Windows.xml
+C:\tes\Licence File\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\tes\Licence File\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\tes\Licence File\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\tes\Licence File\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\tes\Licence File\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\tes\Licence File\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\tes\Licence File\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\tes\Licence File\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\tes\Licence File\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\tes\Licence File\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\tes\Licence File\obj\Debug\FileLicence.csproj.AssemblyReference.cache
+C:\tes\Licence File\obj\Debug\FileLicence.frm_main.resources
+C:\tes\Licence File\obj\Debug\FileLicence.Properties.Resources.resources
+C:\tes\Licence File\obj\Debug\FileLicence.csproj.GenerateResource.cache
+C:\tes\Licence File\obj\Debug\FileLicence.exe.licenses
+C:\tes\Licence File\obj\Debug\FileLicence.csproj.CoreCompileInputs.cache
+C:\tes\Licence File\obj\Debug\FileLicence.csproj.CopyComplete
+C:\tes\Licence File\obj\Debug\FileLicence.exe
+C:\tes\Licence File\obj\Debug\FileLicence.pdb
+C:\Licence File\bin\Debug\FileLicence.exe.config
+C:\Licence File\bin\Debug\FileLicence.exe
+C:\Licence File\bin\Debug\FileLicence.pdb
+C:\Licence File\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Licence File\bin\Debug\System.Security.Principal.Windows.dll
+C:\Licence File\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Licence File\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Licence File\bin\Debug\System.Security.Principal.Windows.xml
+C:\Licence File\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Licence File\obj\Debug\FileLicence.csproj.AssemblyReference.cache
+C:\Licence File\obj\Debug\FileLicence.frm_main.resources
+C:\Licence File\obj\Debug\FileLicence.Properties.Resources.resources
+C:\Licence File\obj\Debug\FileLicence.csproj.GenerateResource.cache
+C:\Licence File\obj\Debug\FileLicence.exe.licenses
+C:\Licence File\obj\Debug\FileLicence.csproj.CoreCompileInputs.cache
+C:\Licence File\obj\Debug\FileLicence.csproj.CopyComplete
+C:\Licence File\obj\Debug\FileLicence.exe
+C:\Licence File\obj\Debug\FileLicence.pdb
